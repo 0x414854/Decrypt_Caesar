@@ -2,6 +2,9 @@
 
 # Caesar Cipher Decryption
 
+<img width="342" alt="Capture d’écran 2024-07-15 à 07 55 18" src="https://github.com/user-attachments/assets/51907e27-b129-4541-b8a0-b3a6887e1547">
+
+
 ## **Description**
 **This Python script decrypts a text encrypted using the Caesar Cipher by trying all possible keys (1-25).**
 <br>It reads the encrypted text from a file specified by the user and attempts to decrypt it with each key, printing the results.
